@@ -1,6 +1,6 @@
 //Edit the below
 
-var contract = '0x526536ae14314790d82034043eea3ce54313f5e3';
+var contract = '0xfb68f350b47332aa287319ce48a69f4a3ba5988e';
 var maxPosts = 5;
 var twitter = 'SwaroopH';
 var facebook = 'SwaroopHegde';
